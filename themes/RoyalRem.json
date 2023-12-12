@@ -10,15 +10,15 @@
   ],
   "theme_color_map": {
     "HEADER_PRIMARY": [
-      "#60668b",
+      "#1f212d",
       "#23232d"
     ],
     "HEADER_SECONDARY": [
-      "#d68c9e",
+      "#1f212d",
       "#3d4858"
     ],
     "TEXT_NORMAL": [
-      "#1f212d",
+      "#000000",
       "#1f212d"
     ],
     "TEXT_MUTED": [
@@ -30,15 +30,15 @@
       "#3d4858"
     ],
     "INTERACTIVE_HOVER": [
-      "#dcddde",
+      "#1f212d",
       "#2e3338"
     ],
     "INTERACTIVE_ACTIVE": [
-      "#6d7295",
+      "#1f212d",
       "#1e1e38"
     ],
     "INTERACTIVE_MUTED": [
-      "#3d3950",
+      "#1f212d",
       "#c7ccd1"
     ],
     "BACKGROUND_PRIMARY": [
