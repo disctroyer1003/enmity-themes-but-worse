@@ -18,15 +18,15 @@
       "#3d4858"
     ],
     "TEXT_NORMAL": [
-      "#FBFBFB",
-      "#2e3338"
+      "#1f212d",
+      "#1f212d"
     ],
     "TEXT_MUTED": [
-      "#60668b",
+      "#1f212d",
       "#747f8d"
     ],
     "INTERACTIVE_NORMAL": [
-      "#d68c9e",
+      "#1f212d",
       "#3d4858"
     ],
     "INTERACTIVE_HOVER": [
